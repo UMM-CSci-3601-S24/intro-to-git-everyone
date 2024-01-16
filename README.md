@@ -1,21 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/u5Kj_kJ7)
 # Introduction to `git` <!-- omit in toc -->
 
-> :bangbang: :mage_woman: **Faculty**
->
-> Each semester there's fair bit of setup that has to be done
-> to initially create and configure that semester's GitHub
-> organization, that semester's GitHub Classroom, and the
-> specific set up for this first lab.
->
-> After you've gone through those instructions, you should
-> remove these faculty-oriented instructions and the
-> "FIX BADGES" badge above.
->
-> Make sure to leave these notes in the copy in the "starter"
-> repository so it's there each semester when we make a copy
-> of this.
-
 - [Background](#background)
   - [Resources for learning `git` and friends](#resources-for-learning-git-and-friends)
   - [How we're going to use `git`](#how-were-going-to-use-git)
