@@ -1,4 +1,4 @@
-## Alija Wosti
+# Alija Wosti
 
 - I prefer to be called "Alija".
 - My pronouns are she/her/hers.
