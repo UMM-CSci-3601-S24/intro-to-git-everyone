@@ -10,9 +10,14 @@ public class Hellos {
     StringBuilder builder = new StringBuilder();
 
     builder.append(kkSaysHello());
+    builder.append(malenaSaysHello());
     builder.append(nicSaysHello());
 
     return builder.toString();
+  }
+
+  private String malenaSaysHello() {
+    return "Malena says 'Hi!'\n";
   }
 
   private String nicSaysHello() {
