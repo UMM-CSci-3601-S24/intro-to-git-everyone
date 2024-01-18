@@ -17,7 +17,7 @@ public class Hellos {
   }
 
   private String elySaysHello() {
-    return "Ely says 'How's it going?'\n";
+    return "Ely says 'How's it going!'\n";
   }
 
   private String nicSaysHello() {
