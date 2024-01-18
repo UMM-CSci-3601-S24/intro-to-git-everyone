@@ -1,0 +1,69 @@
+[33mcommit 35a5ea1eed15321895c4356f04224ba4689e44a4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6aabd11 0ce3ec2
+Author: alijawosti <alijawosti@gmail.com>
+Date:   Tue Jan 16 14:20:57 2024 -0600
+
+    Merge branch 'main' of https://github.com/UMM-CSci-3601-S24/intro-to-git-everyone
+
+[33mcommit 0ce3ec2b776c07efb6aeedd56e61ca3b14a126a6[m
+Merge: 8ed0d65 e4f6b49
+Author: AndrewLam288 <lam00139@morris.umn.edu>
+Date:   Tue Jan 16 14:24:20 2024 -0600
+
+    AndrewL commit
+
+[33mcommit 6aabd118896074b8c7d8ae06a8785f24e525418e[m
+Author: alijawosti <alijawosti@gmail.com>
+Date:   Tue Jan 16 14:20:54 2024 -0600
+
+    User Info
+
+[33mcommit 8ed0d651655a1b7b5517027cc53c69714a2caab8[m
+Author: AndrewLam288 <lam00139@morris.umn.edu>
+Date:   Tue Jan 16 14:20:49 2024 -0600
+
+    AndrewLam commit
+
+[33mcommit e4f6b49a53a867d00a05b134c7d7264c507f43a0[m
+Author: alijawosti <alijawosti@gmail.com>
+Date:   Tue Jan 16 14:13:36 2024 -0600
+
+    .
+
+[33mcommit 04786b48e9b83a8f2fe7b11dec0341323aff42ae[m
+Author: alijawosti <alijawosti@gmail.com>
+Date:   Tue Jan 16 14:07:35 2024 -0600
+
+    User Info
+
+[33mcommit 28aace533e18fa1996e9d0e895890f3892b4a265[m
+Author: Nic McPhee <mcphee@morris.umn.edu>
+Date:   Mon Jan 15 23:44:59 2024 -0600
+
+    Update README.md
+    
+    Remove faculty instructions note at the top of the README.
+
+[33mcommit 6c58e807fc5b56084dfa71145077b4882bb892d1[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jan 16 05:43:13 2024 +0000
+
+    add deadline
+
+[33mcommit 5625c97d2efb4c685f42f4b77a3fc32ee16aa696[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jan 16 05:43:11 2024 +0000
+
+    Setting up GitHub Classroom Feedback
+
+[33mcommit 2c0a083e70d154d5bb0bc8290bec6f18f50b57ad[m[33m ([m[1;31morigin/feedback[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jan 16 05:43:10 2024 +0000
+
+    GitHub Classroom Feedback
+
+[33mcommit 60271389a2fc523ce0a1078faca1b51fe359cd4f[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Jan 16 05:43:09 2024 +0000
+
+    Initial commit
