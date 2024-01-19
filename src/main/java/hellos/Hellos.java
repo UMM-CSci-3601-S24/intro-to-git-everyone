@@ -10,6 +10,7 @@ public class Hellos {
     StringBuilder builder = new StringBuilder();
 
     builder.append(andrewSaysHello());
+    builder.append(andrewSaysHello());
     builder.append(kkSaysHello());
     builder.append(nicSaysHello());
 
@@ -17,7 +18,7 @@ public class Hellos {
   }
 
   private String andrewSaysHello() {
-    return "andrew says 'Hello!'\n";
+    return "Andrew says 'Hello!'\n";
   }
 
   private String nicSaysHello() {
