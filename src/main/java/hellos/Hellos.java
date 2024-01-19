@@ -13,12 +13,17 @@ public class Hellos {
     builder.append(jadenSaysHello());
     builder.append(kkSaysHello());
     builder.append(nicSaysHello());
+    builder.append(patSaysHello());
 
     return builder.toString();
   }
 
   private String andreasSaysHello() {
     return "Andreas says 'Aloha!'\n";
+  }
+  
+  private String patSaysHello() {
+    return "Pat says 'Hello to everyone!'\n";
   }
 
   private String nicSaysHello() {
