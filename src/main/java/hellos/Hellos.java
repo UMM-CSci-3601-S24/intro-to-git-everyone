@@ -16,16 +16,16 @@ public class Hellos {
     return builder.toString();
   }
 
+  private String andrewSaysHello() {
+    return "andrew says 'Hello!'\n";
+  }
+
   private String nicSaysHello() {
     return "Nic says 'Howdy!'\n";
   }
 
   private String kkSaysHello() {
     return "KK says 'Hello!'\n";
-  }
-
-  private String andrewSaysHello() {
-    return "andrew says 'Hello!'\n";
   }
 
 }
