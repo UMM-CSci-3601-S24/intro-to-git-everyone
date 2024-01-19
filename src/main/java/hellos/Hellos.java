@@ -9,6 +9,8 @@ public class Hellos {
   public String generateOutput() {
     StringBuilder builder = new StringBuilder();
 
+    builder.append(andreasSaysHello());
+    builder.append(jadenSaysHello());
     builder.append(kkSaysHello());
     builder.append(KenSaysHello());
     builder.append(nicSaysHello());
@@ -21,6 +23,10 @@ public class Hellos {
     return "Ken says 'whats up!'\n";
   }
 
+  private String andreasSaysHello() {
+    return "Andreas says 'Aloha!'\n";
+  }
+  
   private String patSaysHello() {
     return "Pat says 'Hello to everyone!'\n";
   }
@@ -31,6 +37,10 @@ public class Hellos {
 
   private String kkSaysHello() {
     return "KK says 'Hello!'\n";
+  }
+
+  private String jadenSaysHello() {
+    return "Jaden says 'Yo!'\n";
   }
 
 }
