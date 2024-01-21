@@ -31,7 +31,8 @@
     // Support Markdown linting, which also provides the default formatting for
     // Markdown files.
     // https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
-    "davidanson.vscode-markdownlint"
+    "davidanson.vscode-markdownlint",
+    "mhutchie.git-graph"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
