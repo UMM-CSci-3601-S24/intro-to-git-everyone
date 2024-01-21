@@ -11,9 +11,11 @@ public class Hellos {
 
     builder.append(andreasSaysHello());
     builder.append(andrewSaysHello());
+    builder.append(elySaysHello());
     builder.append(jadenSaysHello());
     builder.append(kkSaysHello());
     builder.append(KenSaysHello());
+    builder.append(LinneaSaysHello());
     builder.append(nicSaysHello());
     builder.append(patSaysHello());
     builder.append(tristanSaysHello());
@@ -21,8 +23,16 @@ public class Hellos {
     return builder.toString();
   }
 
+  private String elySaysHello() {
+    return "Ely says 'How's it going!'\n";
+  }
+
   private String KenSaysHello() {
     return "Ken says 'whats up!'\n";
+  }
+
+  private String LinneaSaysHello() {
+    return "Linnea says 'Hi!'\n";
   }
 
   private String andreasSaysHello() {
