@@ -16,17 +16,21 @@ public class Hellos {
     builder.append(kkSaysHello());
     builder.append(KenSaysHello());
     builder.append(LinneaSaysHello());
+    builder.append(malenaSaysHello());
     builder.append(nicSaysHello());
     builder.append(patSaysHello());
     builder.append(tristanSaysHello());
-
     return builder.toString();
   }
 
+  private String malenaSaysHello() {
+    return "Malena says 'Hi!'\n";
+  }
+  
   private String elySaysHello() {
     return "Ely says 'How's it going!'\n";
   }
-
+  
   private String KenSaysHello() {
     return "Ken says 'whats up!'\n";
   }
