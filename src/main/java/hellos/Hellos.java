@@ -9,9 +9,9 @@ public class Hellos {
   public String generateOutput() {
     StringBuilder builder = new StringBuilder();
 
-    builder.append(ethanSaysHello());
     builder.append(andreasSaysHello());
     builder.append(elySaysHello());
+    builder.append(ethanSaysHello());
     builder.append(jadenSaysHello());
     builder.append(kkSaysHello());
     builder.append(KenSaysHello());
